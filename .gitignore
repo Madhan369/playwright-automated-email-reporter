@@ -1,0 +1,18 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+
+# Archives & Report artifacts
+playwright-report.zip
+*.zip
+
